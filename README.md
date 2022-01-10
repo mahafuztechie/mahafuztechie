@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahafuz Ahmed</h1>
 <h3 align="center">A passionate frontend developer based in Bangalore</h3>
+<img align="center" src="https://wallpapercave.com/uwp/uwp757693.gif">
 
 - 👯 I’m looking to collaborate on **React & Nextjs projects**
 
