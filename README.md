@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahafuz Ahmed</h1>
 <h3 align="center">A passionate frontend developer based in Bangalore</h3>
-<img align="right" alt="gif image" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp?cid=6c09b952f68dc1c1d66c011bfec0cec495a808f776730454&rid=giphy.webp&ct=g">
+<img align="center" alt="gif image" src="https://uploads-ssl.webflow.com/5de413cd9f8e64a05db6b804/5e3751187aa7cfaf8cabfa0b_profile-animation-smile.gif">
 
 - 🌱 I’m currently learning & exploring technologies in depth **.Net & c#**
 
