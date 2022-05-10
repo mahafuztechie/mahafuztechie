@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahafuz Ahmed</h1>
-<h3 align="center">A passionate frontend developer based in Bangalore</h3>
+<h3 align="center">A passionate fullstack developer based in Bangalore</h3>
 
 - 🌱 I’m currently learning & exploring technologies in depth **.Net & Angular**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-swart.vercel.app](https://portfolio-react-swart.vercel.app)
 
-- 💬 Ask me about **React, Javascript, Nextjs, Java, c#**
+- 💬 Ask me about **React, Javascript, Nextjs, .Net, Angular**
 
 - 📫 How to reach me **mahafuzaadeez5@gmail.com**
 
