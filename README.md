@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning & exploring technologies in depth **.Net & React JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-swart.vercel.app](https://portfolio-react-swart.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mahafuz-portfolio-app.vercel.app](https://mahafuz-portfolio-app.vercel.app)
 
 - 💬 Ask me about **React JS, Javascript, Nextjs, .Net**
 
